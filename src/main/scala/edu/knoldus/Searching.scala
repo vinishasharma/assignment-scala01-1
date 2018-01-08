@@ -3,10 +3,10 @@ package edu.knoldus
 class Searching {
 
   def binarySearch(array: Array[Int], elem: Int): Boolean = {
-
-    val position:Int = binarySear(array,0,8,elem)
+    val start=0
+    val end=8
+    val position:Int = binarySear(array,start,end,elem)
     if(position == -1) {
-      println("number present at position " + position)
       false
     }
     else {
@@ -17,11 +17,9 @@ class Searching {
   def linearSearch(array: Array[Int], elem: Int): Boolean = {
     for (i <- 0 to (array.length - 1)) {
       if (array(i) == elem) {
-        println("number found at position " + i)
-        return true
+        true
       }
     }
-
     false
   }
 

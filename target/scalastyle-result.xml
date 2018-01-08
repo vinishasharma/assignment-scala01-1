@@ -1,16 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <checkstyle version="5.0">
  <file name="/home/knoldus/Downloads/assignment-scala01-1/src/main/scala/edu/knoldus/Searching.scala">
-  <error column="42" line="7" source="org.scalastyle.scalariform.MagicNumberChecker" severity="warning" message="Magic Number"/>
-  <error column="8" line="21" source="org.scalastyle.scalariform.ReturnChecker" severity="warning" message="Avoid using return"/>
-  <error column="8" line="33" source="org.scalastyle.scalariform.ReturnChecker" severity="warning" message="Avoid using return"/>
-  <error column="8" line="37" source="org.scalastyle.scalariform.ReturnChecker" severity="warning" message="Avoid using return"/>
-  <error column="8" line="40" source="org.scalastyle.scalariform.ReturnChecker" severity="warning" message="Avoid using return"/>
-  <error column="4" line="43" source="org.scalastyle.scalariform.ReturnChecker" severity="warning" message="Avoid using return"/>
-  <error column="6" line="9" source="org.scalastyle.file.RegexChecker" severity="warning" message="Regular expression matched 'println'"/>
-  <error column="8" line="20" source="org.scalastyle.file.RegexChecker" severity="warning" message="Regular expression matched 'println'"/>
- </file>
- <file name="/home/knoldus/Downloads/assignment-scala01-1/src/main/scala/edu/knoldus/Sorting.scala">
-  <error column="0" line="38" source="org.scalastyle.file.WhitespaceEndOfLineChecker" severity="warning" message="Whitespace at end of line"/>
+  <error column="8" line="31" source="org.scalastyle.scalariform.ReturnChecker" severity="warning" message="Avoid using return"/>
+  <error column="8" line="35" source="org.scalastyle.scalariform.ReturnChecker" severity="warning" message="Avoid using return"/>
+  <error column="8" line="38" source="org.scalastyle.scalariform.ReturnChecker" severity="warning" message="Avoid using return"/>
+  <error column="4" line="41" source="org.scalastyle.scalariform.ReturnChecker" severity="warning" message="Avoid using return"/>
  </file>
 </checkstyle>

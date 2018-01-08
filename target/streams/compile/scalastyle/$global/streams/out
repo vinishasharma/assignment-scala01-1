@@ -1,20 +1,15 @@
 [0m[[0m[0minfo[0m] [0m[0mscalastyle using config /home/knoldus/Downloads/assignment-scala01-1/scalastyle-config.xml[0m
 [0m[[0m[0mdebug[0m] [0m[0mStarting scalastyle[0m
 [0m[[0m[0mdebug[0m] [0m[0mstart file /home/knoldus/Downloads/assignment-scala01-1/src/main/scala/edu/knoldus/Searching.scala[0m
-[0m[[0m[33mwarn[0m] [0m[0m/home/knoldus/Downloads/assignment-scala01-1/src/main/scala/edu/knoldus/Searching.scala:7:42: Magic Number[0m
-[0m[[0m[33mwarn[0m] [0m[0m/home/knoldus/Downloads/assignment-scala01-1/src/main/scala/edu/knoldus/Searching.scala:21:8: Avoid using return[0m
-[0m[[0m[33mwarn[0m] [0m[0m/home/knoldus/Downloads/assignment-scala01-1/src/main/scala/edu/knoldus/Searching.scala:33:8: Avoid using return[0m
-[0m[[0m[33mwarn[0m] [0m[0m/home/knoldus/Downloads/assignment-scala01-1/src/main/scala/edu/knoldus/Searching.scala:37:8: Avoid using return[0m
-[0m[[0m[33mwarn[0m] [0m[0m/home/knoldus/Downloads/assignment-scala01-1/src/main/scala/edu/knoldus/Searching.scala:40:8: Avoid using return[0m
-[0m[[0m[33mwarn[0m] [0m[0m/home/knoldus/Downloads/assignment-scala01-1/src/main/scala/edu/knoldus/Searching.scala:43:4: Avoid using return[0m
-[0m[[0m[33mwarn[0m] [0m[0m/home/knoldus/Downloads/assignment-scala01-1/src/main/scala/edu/knoldus/Searching.scala:9:6: Regular expression matched 'println'[0m
-[0m[[0m[33mwarn[0m] [0m[0m/home/knoldus/Downloads/assignment-scala01-1/src/main/scala/edu/knoldus/Searching.scala:20:8: Regular expression matched 'println'[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/knoldus/Downloads/assignment-scala01-1/src/main/scala/edu/knoldus/Searching.scala:31:8: Avoid using return[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/knoldus/Downloads/assignment-scala01-1/src/main/scala/edu/knoldus/Searching.scala:35:8: Avoid using return[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/knoldus/Downloads/assignment-scala01-1/src/main/scala/edu/knoldus/Searching.scala:38:8: Avoid using return[0m
+[0m[[0m[33mwarn[0m] [0m[0m/home/knoldus/Downloads/assignment-scala01-1/src/main/scala/edu/knoldus/Searching.scala:41:4: Avoid using return[0m
 [0m[[0m[0mdebug[0m] [0m[0mend file /home/knoldus/Downloads/assignment-scala01-1/src/main/scala/edu/knoldus/Searching.scala[0m
 [0m[[0m[0mdebug[0m] [0m[0mstart file /home/knoldus/Downloads/assignment-scala01-1/src/main/scala/edu/knoldus/Sorting.scala[0m
-[0m[[0m[33mwarn[0m] [0m[0m/home/knoldus/Downloads/assignment-scala01-1/src/main/scala/edu/knoldus/Sorting.scala:38:0: Whitespace at end of line[0m
 [0m[[0m[0mdebug[0m] [0m[0mend file /home/knoldus/Downloads/assignment-scala01-1/src/main/scala/edu/knoldus/Sorting.scala[0m
 [0m[[0m[0minfo[0m] [0m[0mscalastyle Processed 2 file(s)[0m
 [0m[[0m[0minfo[0m] [0m[0mscalastyle Found 0 errors[0m
-[0m[[0m[0minfo[0m] [0m[0mscalastyle Found 9 warnings[0m
+[0m[[0m[0minfo[0m] [0m[0mscalastyle Found 4 warnings[0m
 [0m[[0m[0minfo[0m] [0m[0mscalastyle Found 0 infos[0m
 [0m[[0m[0minfo[0m] [0m[0mscalastyle Finished in 9 ms[0m
