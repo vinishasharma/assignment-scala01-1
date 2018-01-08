@@ -33,9 +33,7 @@ class Sorting {
         array(position) = array(i)
       }
     }
-
     array
-    
   }
 
   def bubbleSort(array: Array[Int]): Array[Int] = {
